@@ -18,5 +18,11 @@ import unittest
 #         runner = HTMLTestRunner(stream=report, title=report_title,description=desc)
 #         runner.run(discover)
 
-listed = [{'test': '1.1.1.1'}]
-print(listed[0]['test'])
+#
+# listed = [{'test': '1.1.1.1'}]
+# print(listed[0]['test'])
+raise
+a = 1/0
+
+
+print(isinstance(1,str))
